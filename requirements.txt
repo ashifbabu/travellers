@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+pytest
+motor
+pydantic
+python-dotenv
+pydantic[email]
+
